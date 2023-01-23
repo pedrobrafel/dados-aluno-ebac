@@ -1,11 +1,16 @@
 Dados do aluno
 
--Primeiro Nome:
--Profissão:
--Cidade:
--O que faz nas horas vaga:
+-Primeiro Nome: Pedro
+-Profissão: Analisa QA 
+-Cidade: Pouso Alegre
+-O que faz nas horas vaga: Estudo musica ou programação 
 -Feedback sobre o curso Qualidade de Software:
+O curso tem sido excelente! 
+Estou aprendendo muito sobre a importancia da qualidade em um time agil.
+Com certeza está me agregando muito profissisonalmente.
+
 -Feedback sobre a plataforma de estudo da EBAC:
+Gostei muito da EBAC, é simples e visualmente agradavel.
 
 Obrigado!!!
 
